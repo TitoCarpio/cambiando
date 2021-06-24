@@ -43,7 +43,7 @@ namespace pdf
 
             MessageBox.Show("se genero piola", "exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-            //se comento esto para ver los cambios
+            //se comento esto para ver los cambios de git
 
         }
     }
